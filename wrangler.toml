@@ -1,0 +1,10 @@
+name = "rhino-and-polar"
+type = "webpack"
+account_id = "661484bfa811d50ad0a7c946485ad9ae"
+zone_id = "4b6195de093143abb653b8608ce35c36"
+workers_dev = false
+route = "polarvsrhino.win/*"
+
+[site]
+bucket = "./build"
+entry-point = "workers-site"
